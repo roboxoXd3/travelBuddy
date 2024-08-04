@@ -728,8 +728,8 @@ class DestinationDetailScreen extends StatelessWidget {
               title: const Text('Destination Details'),
               background: Hero(
                 tag: 'destination_$imageUrl',
-                child: CachedNetworkImage(
-                  imageUrl: imageUrl,
+                child: Image.asset(
+                  imageUrl,
                   fit: BoxFit.cover,
                 ),
               ),
