@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - [@Rishav Shankar](www.linkedin.com/in/rishav-shankar-351863159) - rishavshahi87@gmail.com
 
 Project Link: [https://github.com/yourusername/travel-buddy-app](https://github.com/yourusername/travel-buddy-app)
 
