@@ -35,7 +35,7 @@ Travel Buddy is a sophisticated mobile application designed for adventurers and 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/travel-buddy-app.git
+   git clone https://github.com/roboxoXd3/travelBuddy.git
    ```
 
 2. Navigate to the project directory:
@@ -52,29 +52,6 @@ Travel Buddy is a sophisticated mobile application designed for adventurers and 
    ```
    flutter run
    ```
-
-## Project Structure
-
-```
-lib/
-  ├── main.dart
-  ├── screens/
-  │   ├── home_screen.dart
-  │   ├── explore_screen.dart
-  │   ├── trips_screen.dart
-  │   └── profile_screen.dart
-  ├── widgets/
-  │   ├── travel_map.dart
-  │   ├── trip_card.dart
-  │   └── achievement_badge.dart
-  ├── models/
-  │   ├── user.dart
-  │   └── trip.dart
-  ├── services/
-  │   └── api_service.dart
-  └── utils/
-      └── constants.dart
-```
 
 ## Contributing
 
