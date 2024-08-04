@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@Rishav Shankar](www.linkedin.com/in/rishav-shankar-351863159) - rishavshahi87@gmail.com
 
-Project Link: [https://github.com/yourusername/travel-buddy-app](https://github.com/yourusername/travel-buddy-app)
+Project Link: [https://github.com/roboxoXd3/travelBuddy](https://github.com/roboxoXd3/travelBuddy)
 
 ## Acknowledgements
 
